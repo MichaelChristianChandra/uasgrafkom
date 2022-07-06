@@ -1,0 +1,74 @@
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\test1.exe
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\test1.deps.json
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.json
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\test1.runtimeconfig.dev.json
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\test1.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\ref\test1.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\test1.pdb
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Compute.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Core.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Graphics.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Input.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Mathematics.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.OpenAL.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\LearnOpenTK.Common.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\bin\Debug\net5.0\LearnOpenTK.Common.pdb
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.csproj.AssemblyReference.cache
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.AssemblyInfoInputs.cache
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.AssemblyInfo.cs
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.csproj.CopyComplete
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\ref\test1.dll
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.pdb
+C:\Users\Jimmy\Downloads\Compressed\repos\repos\test1\test1\obj\Debug\net5.0\test1.genruntimeconfig.cache
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.dll
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\ref\test1.dll
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.pdb
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.csproj.AssemblyReference.cache
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.AssemblyInfoInputs.cache
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.AssemblyInfo.cs
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.csproj.CoreCompileInputs.cache
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\test1.exe
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\test1.deps.json
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\test1.runtimeconfig.json
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\test1.runtimeconfig.dev.json
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\test1.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\ref\test1.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\test1.pdb
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Compute.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Core.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Graphics.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Input.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Mathematics.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.OpenAL.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Windowing.Common.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Windowing.Desktop.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\win-x64\native\glfw3.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\win-x86\native\glfw3.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\LearnOpenTK.Common.dll
+C:\Kuliah\UAS Grafkom\test1\bin\Debug\net5.0\LearnOpenTK.Common.pdb
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.csproj.CopyComplete
+C:\Kuliah\UAS Grafkom\test1\obj\Debug\net5.0\test1.genruntimeconfig.cache

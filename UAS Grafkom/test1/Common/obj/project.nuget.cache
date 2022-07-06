@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZzxuxmy2ZYPTWJP5piRgoIPMK4K/dZtw/9lQat4vZk+0W57gbAJPn6k5N0YtVUx9eZpAoiah6XZXMEYqpf0Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loyal Core\\source\\repos\\Project 2\\Should be working\\UAS Grafkom\\test1\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk\\4.4.0\\opentk.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.compute\\4.4.0\\opentk.compute.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.core\\4.4.0\\opentk.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.graphics\\4.4.0\\opentk.graphics.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.input\\4.4.0\\opentk.input.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.mathematics\\4.4.0\\opentk.mathematics.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.openal\\4.4.0\\opentk.openal.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.windowing.common\\4.4.0\\opentk.windowing.common.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.windowing.desktop\\4.4.0\\opentk.windowing.desktop.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.4.0\\opentk.windowing.graphicslibraryframework.4.4.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Loyal Core\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
